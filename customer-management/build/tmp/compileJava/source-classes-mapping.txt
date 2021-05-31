@@ -1,0 +1,8 @@
+Legacy/Controler/CustomerServlet.java
+ Legacy.Controler.CustomerServlet
+Legacy/Service/CustomerServiceImpl.java
+ Legacy.Service.CustomerServiceImpl
+Legacy/Service/CustomerService.java
+ Legacy.Service.CustomerService
+Legacy/Model/Customer.java
+ Legacy.Model.Customer

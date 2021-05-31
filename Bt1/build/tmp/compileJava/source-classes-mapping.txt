@@ -1,0 +1,8 @@
+bt1/model/Product.java
+ bt1.model.Product
+bt1/service/IProductService.java
+ bt1.service.IProductService
+bt1/service/ProductService.java
+ bt1.service.ProductService
+bt1/controler/Servlet.java
+ bt1.controler.Servlet
